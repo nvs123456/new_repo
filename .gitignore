@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named dcm
+dcm/
+# ignore ALL .txt files 
+*.txt
